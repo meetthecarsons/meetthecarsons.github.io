@@ -4,7 +4,7 @@ email: robert.carson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   An Awesome Family Blog filled with happy family stuff.
   
-#github_username:  meetthecarsons
+github_username:  meetthecarsons
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -20,5 +20,6 @@ minima:
 markdown: kramdown
 theme: minima
 exclude:
+  - README.md
   - Gemfile
   - Gemfile.lock
