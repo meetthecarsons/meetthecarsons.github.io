@@ -10,6 +10,5 @@ github_username:  meetthecarsons
 markdown: kramdown
 theme: minima
 exclude:
-  - README.md
   - Gemfile
   - Gemfile.lock
