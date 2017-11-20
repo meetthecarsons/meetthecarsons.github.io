@@ -8,7 +8,7 @@ github_username:  meetthecarsons
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 exclude:
   - README.md
   - Gemfile
