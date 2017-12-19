@@ -20,6 +20,5 @@ minima:
 markdown: kramdown
 theme: minima
 exclude:
-  - README.md
   - Gemfile
   - Gemfile.lock
